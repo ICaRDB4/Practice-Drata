@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-07T10:01:55 CST" name="Default suite" finished-at="2022-02-07T10:02:05 CST" duration-ms="10467">
+    <groups>
+    </groups>
+    <test started-at="2022-02-07T10:01:55 CST" name="Default test" finished-at="2022-02-07T10:02:05 CST" duration-ms="10467">
+      <class name="Test.DrataTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Test.DrataTest@61386958]" started-at="2022-02-07T10:01:55 CST" name="initialize" finished-at="2022-02-07T10:01:58 CST" duration-ms="3383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="PON_TC_2()[pri:0, instance:Test.DrataTest@61386958]" started-at="2022-02-07T10:01:58 CST" name="PON_TC_2" finished-at="2022-02-07T10:02:05 CST" duration-ms="7048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PON_TC_2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Test.DrataTest@61386958]" started-at="2022-02-07T10:02:05 CST" name="afterMethod" finished-at="2022-02-07T10:02:05 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Test.DrataTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
